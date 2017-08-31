@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Dwozil/express-js-getting-started#readme",
   "dependencies": {
+    "ejs": "^2.5.7",
     "express": "^4.15.4"
   }
 }
