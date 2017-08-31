@@ -1,0 +1,25 @@
+{
+  "name": "express-js-getting-started",
+  "version": "1.0.0",
+  "description": "didactic express-js getting started app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dwozil/express-js-getting-started.git"
+  },
+  "keywords": [
+    "didactic"
+  ],
+  "author": "dwozil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dwozil/express-js-getting-started/issues"
+  },
+  "homepage": "https://github.com/Dwozil/express-js-getting-started#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
